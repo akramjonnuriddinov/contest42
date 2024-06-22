@@ -84,7 +84,7 @@ img {
 }
 
 .header-hero-wrapper {
-  background-image: url("../images/hero-bg.svg");
+  background-image: url("../images/hero-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 206px;
@@ -180,7 +180,7 @@ img {
 }
 
 .footer {
-  background-image: url("../images/footer-bg.svg");
+  background-image: url("../images/footer-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
